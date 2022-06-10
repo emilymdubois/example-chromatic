@@ -1,2 +1,3 @@
 # example-chromatic
-🏵️ An example Chromatic implementation
+
+An example Storybook implementation with Chromatic.
